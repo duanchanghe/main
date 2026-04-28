@@ -1,0 +1,42 @@
+# 系统文件
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+
+# IDE / 编辑器
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# 环境
+.env
+.env.local
+.env.*.local
+venv/
+env/
+__pycache__/
+*.py[cod]
+*.so
+
+# 音频、模型、大文件
+*.mp3
+*.wav
+*.flac
+*.mp4
+*.mov
+*.zip
+*.rar
+*.gz
+*.tar
+*.bin
+*.pth
+*.ckpt
+
+# 日志
+logs/
+*.log
+*/migrations/*
